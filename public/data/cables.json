@@ -1,0 +1,382 @@
+[
+  {
+    "id": "IMG-01",
+    "name": "VAF 2 x 1 - 2 x 4",
+    "code": "IMG-01",
+    "category": "VAF",
+    "cuPct": 33.0,
+    "verified": false,
+    "source": "ภาพเอกสารหน้า 1/7 • ต้องตรวจสอบก่อนซื้อ",
+    "imageRow": 1
+  },
+  {
+    "id": "IMG-02",
+    "name": "THW 1 - 4",
+    "code": "IMG-02",
+    "category": "THW",
+    "cuPct": 63.5,
+    "verified": false,
+    "source": "ภาพเอกสารหน้า 1/7 • ต้องตรวจสอบก่อนซื้อ",
+    "imageRow": 2
+  },
+  {
+    "id": "IMG-03",
+    "name": "THW 25 - 35",
+    "code": "IMG-03",
+    "category": "THW",
+    "cuPct": 80.0,
+    "verified": false,
+    "source": "ภาพเอกสารหน้า 1/7 • ต้องตรวจสอบก่อนซื้อ",
+    "imageRow": 3
+  },
+  {
+    "id": "IMG-04",
+    "name": "NYY 2 - 4 x 16",
+    "code": "IMG-04",
+    "category": "NYY",
+    "cuPct": 40.0,
+    "verified": false,
+    "source": "ภาพเอกสารหน้า 1/7 • ต้องตรวจสอบก่อนซื้อ",
+    "imageRow": 4
+  },
+  {
+    "id": "IMG-05",
+    "name": "NYY 3 x 300",
+    "code": "IMG-05",
+    "category": "NYY",
+    "cuPct": 62.95,
+    "verified": false,
+    "source": "ภาพเอกสารหน้า 1/7 • ต้องตรวจสอบก่อนซื้อ",
+    "imageRow": 5
+  },
+  {
+    "id": "IMG-06",
+    "name": "THW 6, 10, 16",
+    "code": "IMG-06",
+    "category": "THW",
+    "cuPct": 75.0,
+    "verified": false,
+    "source": "ภาพเอกสารหน้า 1/7 • ต้องตรวจสอบก่อนซื้อ",
+    "imageRow": 6
+  },
+  {
+    "id": "IMG-07",
+    "name": "3.6/6(7.2)KV 1 x 300-500",
+    "code": "IMG-07",
+    "category": "3.6/6(7.2)KV",
+    "cuPct": 83.65,
+    "verified": false,
+    "source": "ภาพเอกสารหน้า 1/7 • ต้องตรวจสอบก่อนซื้อ",
+    "imageRow": 7
+  },
+  {
+    "id": "IMG-08",
+    "name": "3.6/6(7.2)KV 1 x 300",
+    "code": "IMG-08",
+    "category": "3.6/6(7.2)KV",
+    "cuPct": 71.66,
+    "verified": false,
+    "source": "ภาพเอกสารหน้า 1/7 • ต้องตรวจสอบก่อนซื้อ",
+    "imageRow": 8
+  },
+  {
+    "id": "IMG-09",
+    "name": "3.6/6(7.2)KV 1 x 400",
+    "code": "IMG-09",
+    "category": "3.6/6(7.2)KV",
+    "cuPct": 79.15,
+    "verified": false,
+    "source": "ภาพเอกสารหน้า 1/7 • ต้องตรวจสอบก่อนซื้อ",
+    "imageRow": 9
+  },
+  {
+    "id": "IMG-10",
+    "name": "3.6/6(7.2)KV 1 x 500",
+    "code": "IMG-10",
+    "category": "3.6/6(7.2)KV",
+    "cuPct": 73.79,
+    "verified": false,
+    "source": "ภาพเอกสารหน้า 1/7 • ต้องตรวจสอบก่อนซื้อ",
+    "imageRow": 10
+  },
+  {
+    "id": "IMG-11",
+    "name": "12/20KV.CV.35-50",
+    "code": "IMG-11",
+    "category": "12/20KV.CV.35-50",
+    "cuPct": 48.37,
+    "verified": false,
+    "source": "ภาพเอกสารหน้า 1/7 • ต้องตรวจสอบก่อนซื้อ",
+    "imageRow": 11
+  },
+  {
+    "id": "IMG-12",
+    "name": "12/20KV.CV.70-95",
+    "code": "IMG-12",
+    "category": "12/20KV.CV.70-95",
+    "cuPct": 57.77,
+    "verified": false,
+    "source": "ภาพเอกสารหน้า 1/7 • ต้องตรวจสอบก่อนซื้อ",
+    "imageRow": 12
+  },
+  {
+    "id": "IMG-13",
+    "name": "12/20KV.CV.120-185",
+    "code": "IMG-13",
+    "category": "12/20KV.CV.120-185",
+    "cuPct": 67.38,
+    "verified": false,
+    "source": "ภาพเอกสารหน้า 1/7 • ต้องตรวจสอบก่อนซื้อ",
+    "imageRow": 13
+  },
+  {
+    "id": "IMG-14",
+    "name": "12/20KV.CV.3x50-95",
+    "code": "IMG-14",
+    "category": "12/20KV.CV.3x50-95",
+    "cuPct": 49.79,
+    "verified": false,
+    "source": "ภาพเอกสารหน้า 1/7 • ต้องตรวจสอบก่อนซื้อ",
+    "imageRow": 14
+  },
+  {
+    "id": "IMG-15",
+    "name": "12/20KV.CV.240",
+    "code": "IMG-15",
+    "category": "12/20KV.CV.240",
+    "cuPct": 73.66,
+    "verified": false,
+    "source": "ภาพเอกสารหน้า 1/7 • ต้องตรวจสอบก่อนซื้อ",
+    "imageRow": 15
+  },
+  {
+    "id": "IMG-16",
+    "name": "CE(WS)115KV 1x800 - Ins",
+    "code": "IMG-16",
+    "category": "CE(WS)115KV",
+    "cuPct": 68.33,
+    "verified": false,
+    "source": "ภาพเอกสารหน้า 1/7 • ต้องตรวจสอบก่อนซื้อ",
+    "imageRow": 16
+  },
+  {
+    "id": "IMG-17",
+    "name": "CE(WS)115KV 1x800 - FG",
+    "code": "IMG-17",
+    "category": "CE(WS)115KV",
+    "cuPct": 61.17,
+    "verified": false,
+    "source": "ภาพเอกสารหน้า 1/7 • ต้องตรวจสอบก่อนซื้อ",
+    "imageRow": 17
+  },
+  {
+    "id": "IMG-18",
+    "name": "CE(WS-WBT) 1 x 240",
+    "code": "IMG-18",
+    "category": "CE(WS-WBT)",
+    "cuPct": 48.07,
+    "verified": false,
+    "source": "ภาพเอกสารหน้า 1/7 • ต้องตรวจสอบก่อนซื้อ",
+    "imageRow": 18
+  },
+  {
+    "id": "IMG-19",
+    "name": "CE(WS-WBT) 1 x 400 115 KV",
+    "code": "IMG-19",
+    "category": "CE(WS-WBT)",
+    "cuPct": 50.73,
+    "verified": false,
+    "source": "ภาพเอกสารหน้า 1/7 • ต้องตรวจสอบก่อนซื้อ",
+    "imageRow": 19
+  },
+  {
+    "id": "IMG-20",
+    "name": "CE(WS-WBT) 1 x 500",
+    "code": "IMG-20",
+    "category": "CE(WS-WBT)",
+    "cuPct": 62.8,
+    "verified": false,
+    "source": "ภาพเอกสารหน้า 1/7 • ต้องตรวจสอบก่อนซื้อ",
+    "imageRow": 20
+  },
+  {
+    "id": "IMG-21",
+    "name": "CV 115 KV 1 x 400",
+    "code": "IMG-21",
+    "category": "CV",
+    "cuPct": 62.78,
+    "verified": false,
+    "source": "ภาพเอกสารหน้า 1/7 • ต้องตรวจสอบก่อนซื้อ",
+    "imageRow": 21
+  },
+  {
+    "id": "IMG-22",
+    "name": "CE(WS-WBT) 1x240 115 KV",
+    "code": "IMG-22",
+    "category": "CE(WS-WBT)",
+    "cuPct": 46.34,
+    "verified": false,
+    "source": "ภาพเอกสารหน้า 1/7 • ต้องตรวจสอบก่อนซื้อ",
+    "imageRow": 22
+  },
+  {
+    "id": "IMG-23",
+    "name": "69KV XLPE/AWA/PVC 1x500 (FG)",
+    "code": "IMG-23",
+    "category": "69KV",
+    "cuPct": 44.51,
+    "verified": false,
+    "source": "ภาพเอกสารหน้า 1/7 • ต้องตรวจสอบก่อนซื้อ",
+    "imageRow": 23
+  },
+  {
+    "id": "IMG-24",
+    "name": "69KV XLPE/AWA/PVC 1x500 (INS.)",
+    "code": "IMG-24",
+    "category": "69KV",
+    "cuPct": 70.92,
+    "verified": false,
+    "source": "ภาพเอกสารหน้า 1/7 • ต้องตรวจสอบก่อนซื้อ",
+    "imageRow": 24
+  },
+  {
+    "id": "IMG-25",
+    "name": "NYY 3 x 50",
+    "code": "IMG-25",
+    "category": "NYY",
+    "cuPct": 62.9,
+    "verified": false,
+    "source": "ภาพเอกสารหน้า 1/7 • ต้องตรวจสอบก่อนซื้อ",
+    "imageRow": 25
+  },
+  {
+    "id": "IMG-26",
+    "name": "NYCY 3 x 150",
+    "code": "IMG-26",
+    "category": "NYCY",
+    "cuPct": 64.39,
+    "verified": false,
+    "source": "ภาพเอกสารหน้า 1/7 • ต้องตรวจสอบก่อนซื้อ",
+    "imageRow": 26
+  },
+  {
+    "id": "IMG-27",
+    "name": "NYCY 3 x 185",
+    "code": "IMG-27",
+    "category": "NYCY",
+    "cuPct": 66.04,
+    "verified": false,
+    "source": "ภาพเอกสารหน้า 1/7 • ต้องตรวจสอบก่อนซื้อ",
+    "imageRow": 27
+  },
+  {
+    "id": "IMG-28",
+    "name": "8.7/15(17.5)KV FR-CV-BTA 1x630",
+    "code": "IMG-28",
+    "category": "8.7/15(17.5)KV",
+    "cuPct": 70.9,
+    "verified": false,
+    "source": "ภาพเอกสารหน้า 1/7 • ต้องตรวจสอบก่อนซื้อ",
+    "imageRow": 28
+  },
+  {
+    "id": "IMG-29",
+    "name": "115 KV CE(WS-WBT) 1x1200",
+    "code": "IMG-29",
+    "category": "115",
+    "cuPct": 74.16,
+    "verified": false,
+    "source": "ภาพเอกสารหน้า 1/7 • ต้องตรวจสอบก่อนซื้อ",
+    "imageRow": 29
+  },
+  {
+    "id": "IMG-30",
+    "name": "115 KV CE(WS-WBT) 1x1200 (FG)",
+    "code": "IMG-30",
+    "category": "115",
+    "cuPct": 67.02,
+    "verified": false,
+    "source": "ภาพเอกสารหน้า 1/7 • ต้องตรวจสอบก่อนซื้อ",
+    "imageRow": 30
+  },
+  {
+    "id": "IMG-31",
+    "name": "FR-CV(AL)-AWA(WS-WBT)-AT-VP 1x300",
+    "code": "IMG-31",
+    "category": "FR-CV(AL)-AWA(WS-WBT)-AT-VP",
+    "cuPct": 6.03,
+    "verified": false,
+    "source": "ภาพเอกสารหน้า 1/7 • ต้องตรวจสอบก่อนซื้อ",
+    "imageRow": 31
+  },
+  {
+    "id": "IMG-32",
+    "name": "XLPE/SWA/FRLS-PVC-AT-VP 4x400/240",
+    "code": "IMG-32",
+    "category": "XLPE/SWA/FRLS-PVC-AT-VP",
+    "cuPct": 63.29,
+    "verified": false,
+    "source": "ภาพเอกสารหน้า 1/7 • ต้องตรวจสอบก่อนซื้อ",
+    "imageRow": 32
+  },
+  {
+    "id": "IMG-33",
+    "name": "18/30(36)KV CE(WS-WBT) 1x120",
+    "code": "IMG-33",
+    "category": "18/30(36)KV",
+    "cuPct": 56.52,
+    "verified": false,
+    "source": "ภาพเอกสารหน้า 1/7 • ต้องตรวจสอบก่อนซื้อ",
+    "imageRow": 33
+  },
+  {
+    "id": "IMG-34",
+    "name": "12/20(24)KV FR CV(WS) 1x400",
+    "code": "IMG-34",
+    "category": "12/20(24)KV",
+    "cuPct": 68.73,
+    "verified": false,
+    "source": "ภาพเอกสารหน้า 1/7 • ต้องตรวจสอบก่อนซื้อ",
+    "imageRow": 34
+  },
+  {
+    "id": "IMG-35",
+    "name": "12/20(24)KV CE(WS-WBT) 1x400",
+    "code": "IMG-35",
+    "category": "12/20(24)KV",
+    "cuPct": 78.7,
+    "verified": false,
+    "source": "ภาพเอกสารหน้า 1/7 • ต้องตรวจสอบก่อนซื้อ",
+    "imageRow": 35
+  },
+  {
+    "id": "IMG-36",
+    "name": "18/30(36)KV XLPE/PE/FIBER 3x120",
+    "code": "IMG-36",
+    "category": "18/30(36)KV",
+    "cuPct": 39.95,
+    "verified": false,
+    "source": "ภาพเอกสารหน้า 1/7 • ต้องตรวจสอบก่อนซื้อ",
+    "imageRow": 36
+  },
+  {
+    "id": "IMG-37",
+    "name": "12/20(24)KV-FR-CV(WS) 1x240",
+    "code": "IMG-37",
+    "category": "12/20(24)KV-FR-CV(WS)",
+    "cuPct": 63.08,
+    "verified": false,
+    "source": "ภาพเอกสารหน้า 1/7 • ต้องตรวจสอบก่อนซื้อ",
+    "imageRow": 37
+  },
+  {
+    "id": "IMG-38",
+    "name": "12/20(24)KV-XLPE/CWS/LAT/PE/LSHF(WBT) 1x240",
+    "code": "IMG-38",
+    "category": "12/20(24)KV-XLPE/CWS/LAT/PE/LSHF(WBT)",
+    "cuPct": 57.24,
+    "verified": false,
+    "source": "ภาพเอกสารหน้า 1/7 • ต้องตรวจสอบก่อนซื้อ",
+    "imageRow": 38
+  }
+]

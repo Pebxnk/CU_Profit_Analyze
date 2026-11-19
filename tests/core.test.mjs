@@ -1,0 +1,12 @@
+import assert from 'node:assert/strict';
+import {calcLot,calcActual,priceScenarios} from '../public/core.mjs';
+const lot={items:[{weight:1000,buyPrice:225,cuPct:65},{weight:500,buyPrice:225,cuPct:65}],costs:{stripPerKg:5,labor:0,transport:0,other:0},estimatePrice:390,budget:400000,targetROI:10,status:'ซื้อแล้ว'};
+const r=calcLot(lot);assert.equal(r.weight,1500);assert.equal(r.copper,975);assert.equal(r.purchase,337500);assert.equal(r.processing,7500);assert.equal(r.total,345000);assert.equal(r.revenue,380250);assert.equal(r.profit,35250);assert.equal(r.roi,35250/345000*100);assert(Math.abs(r.breakevenSale-353.846153846)<1e-7);assert.equal(r.maxBuy,248.5);assert.equal(r.maxBuyTarget,(380250/1.1-7500)/1500);
+assert.equal(r.targetSalePrice,r.total*1.1/r.copper);
+const multi={...lot,items:[{weight:1000,buyPrice:230,cuPct:63.5},{weight:500,buyPrice:260,cuPct:62.95}]};const m=calcLot(multi);assert.equal(m.copper,949.75);assert.equal(m.weightedCu,949.75/1500*100);
+const sold={...lot,status:'ขายแล้ว',sales:[{weight:975,price:395}]};const a=calcActual(sold);assert.equal(a.revenue,975*395);assert.equal(a.profit,975*395-345000);
+assert.equal(calcActual({...sold,status:'พร้อมขาย'}).profit,null);
+const sample=[{kind:'THAI',grade:'A',unit:'THB_KG',vat:'EX_VAT',verified:true,price:390,observed:'2026-11-17T00:00:00Z',source:'X'},{kind:'THAI',grade:'A',unit:'THB_KG',vat:'EX_VAT',verified:true,price:400,observed:'2026-11-17T00:00:00Z',source:'Y'},{kind:'THAI',grade:'B',unit:'THB_KG',vat:'EX_VAT',verified:true,price:300,observed:'2026-11-17T00:00:00Z',source:'Y'}];
+assert.deepEqual([priceScenarios(sample,'A',7,Date.parse('2026-11-17T12:00:00Z')).low,priceScenarios(sample,'A',7,Date.parse('2026-11-17T12:00:00Z')).base,priceScenarios(sample,'A',7,Date.parse('2026-11-17T12:00:00Z')).high],[390,395,400]);
+for(const x of [0,-1,''])assert.throws(()=>calcLot({...lot,items:[{weight:x,buyPrice:220,cuPct:65}]}));
+console.log('PASS core: mixed lots, true sales, ROI target, scenarios, invalid inputs');

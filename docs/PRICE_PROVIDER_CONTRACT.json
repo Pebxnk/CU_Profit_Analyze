@@ -1,0 +1,17 @@
+{
+  "description": "Provider JSON schema illustration; no live prices or fabricated values included.",
+  "quotes": [
+    {
+      "kind": "THAI | LME | FX",
+      "source": "Name of authorized source",
+      "grade": "Exact Thai scrap copper grade, or Copper for LME, or USD/THB for FX",
+      "price": "Positive NUMBER in the unit shown (not a text placeholder in production)",
+      "unit": "THB_KG for THAI | USD_TON for LME | THB_USD for FX",
+      "vat": "EX_VAT for THAI; NA for LME and FX",
+      "lmeType": "Cash | 3-Month (only LME)",
+      "observed": "ISO 8601 with time zone, e.g. yyyy-mm-ddThh:mm:ss+07:00",
+      "url": "https://official-document-or-source-url",
+      "verified": "BOOLEAN true ONLY when source and terms are verifiable"
+    }
+  ]
+}
